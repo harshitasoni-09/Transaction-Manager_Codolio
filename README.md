@@ -1,9 +1,9 @@
 ### Project Summary: Transaction Manager with Theme Toggle
 
 
+![Screenshot 2024-07-20 151820](https://github.com/user-attachments/assets/f7fa8a6f-711a-4640-8caa-dd29dc039288)
 
 **Project Overview:**
-![Screenshot 2024-07-20 144119](https://github.com/user-attachments/assets/34ae84d0-a774-4f3c-8e2f-ad21867794ae)
 
 This project is a **Transaction Manager** application that enables users to manage their financial transactions efficiently. The application supports both light and dark themes, allowing users to switch between them for a personalized viewing experience. 
 
