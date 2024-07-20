@@ -1,0 +1,21 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+/* Light theme (default) */
+body {
+  --background-gradient: linear-gradient(to right, #e0f7fa, #80deea); /* Light blue gradient */
+  --text-color: #333; /* Dark text for light mode */
+}
+
+.dark {
+  --background-gradient: linear-gradient(to right, #2c2c2c, #3c3c3c); /* Dark gray gradient */
+  --text-color: black; /* White text color for dark mode */
+}
+
+.min-h-screen {
+  background: var(--background-gradient);
+  color: var(--text-color);
+  transition: background 0.3s, color 0.3s;
+}
+
